@@ -1,0 +1,13 @@
+[
+  {
+    "name": "SauravCircuit",
+    "protocol": "groth16",
+    "circuit": "SauravCircuit/circuit.circom",
+    "input": "SauravCircuit/input.json",
+    "wasm": "SauravCircuit/out/circuit.wasm",
+    "zkey": "SauravCircuit/out/SauravCircuit.zkey",
+    "vkey": "SauravCircuit/out/SauravCircuit.vkey",
+    "r1cs": "SauravCircuit/out/SauravCircuit.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
